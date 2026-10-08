@@ -1,0 +1,14 @@
+# Core PDF and text parsing
+pymupdf>=1.24.0
+
+# Structured validation & modeling
+pydantic>=2.5.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP requests for GitHub API & LLM endpoints
+requests>=2.31.0
+
+# Testing framework
+pytest>=8.0.0
